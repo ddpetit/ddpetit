@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddpetit
 - 👀 I’m interested in learning about automation in business
-- 🌱 I’m currently learning Mindsdb & Metabase
+- 🌱 I’m currently learning LLM
 
 <!---
 ddpetit/ddpetit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
